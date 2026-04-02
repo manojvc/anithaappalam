@@ -1,4 +1,4 @@
-(() => {
+﻿(() => {
   const BUSINESS = {
     name: 'Anitha Appalam',
     area: 'Jaihindpuram',
@@ -90,7 +90,7 @@
       short: 'A regional-style appalam variety.',
       full: 'Sovi Appalam is a regional variation. Ask for availability, sizes, and minimum order quantity.',
       highlights: ['Regional variety', 'Fresh batches', 'Careful drying'],
-      images: [{ src: 'images/soviappalam.png', alt: 'Sovi appalam product photo' }]
+      images: [{ src: 'images/soviappalam.jpg', alt: 'Sovi appalam product photo' }]
     },
     'kalyana-appalam': {
       id: 'kalyana-appalam',
@@ -99,7 +99,7 @@
       short: 'Made for weddings and large celebrations.',
       full: 'Kalyana Appalam is prepared specifically for function-style requirements where consistent quality and bulk packing matter. Contact us for your wedding or event date and quantity.',
       highlights: ['Function-ready', 'Bulk orders', 'Consistent packing'],
-      images: [{ src: 'images/kalyanaAppalam.png', alt: 'Kalyana appalam product photo' }]
+      images: [{ src: 'images/kalyanaAppalam.jpg', alt: 'Kalyana appalam product photo' }]
     },
     'greens-appalam': {
       id: 'greens-appalam',
@@ -164,7 +164,7 @@
       <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav" role="navigation" aria-label="Primary">
         <div class="container-fluid">
           <a class="navbar-brand" href="index.html" aria-label="${escapeHtml(BUSINESS.name)} home">
-            <img class="img-fluid" src="images/logo.png" alt="${escapeHtml(BUSINESS.name)} logo" />
+            <img class="img-fluid" src="images/logo.jpg" alt="${escapeHtml(BUSINESS.name)} logo" />
             <span class="brand-title">${escapeHtml(BUSINESS.name)}</span>
           </a>
 
@@ -191,7 +191,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12">
               <div class="mb-3 img-logo">
                 <a href="index.html" aria-label="${escapeHtml(BUSINESS.name)} home">
-                  <img src="images/logo.png" alt="${escapeHtml(BUSINESS.name)}" />
+                  <img src="images/logo.jpg" alt="${escapeHtml(BUSINESS.name)}" />
                 </a>
                 <p>Homemade, traditional & hygienic preparation. Based in ${escapeHtml(BUSINESS.city)} (${escapeHtml(BUSINESS.area)}). Bulk orders available.</p>
               </div>
