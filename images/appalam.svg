@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780" role="img" aria-label="Appalam illustration">
+  <rect width="1200" height="780" fill="#ffffff"/>
+  <circle cx="600" cy="390" r="300" fill="#fff7ed" stroke="#b45309" stroke-width="10"/>
+  <circle cx="600" cy="390" r="220" fill="#ffffff" stroke="#0f766e" stroke-width="10" opacity="0.85"/>
+  <circle cx="600" cy="390" r="140" fill="#fff7ed" stroke="#b45309" stroke-width="10" opacity="0.7"/>
+  <g fill="#0f172a" opacity="0.15">
+    <circle cx="480" cy="340" r="10"/>
+    <circle cx="540" cy="470" r="8"/>
+    <circle cx="700" cy="410" r="9"/>
+    <circle cx="670" cy="300" r="7"/>
+    <circle cx="560" cy="300" r="6"/>
+    <circle cx="760" cy="520" r="8"/>
+  </g>
+  <text x="600" y="710" text-anchor="middle" font-size="44" font-family="system-ui,Segoe UI,Roboto,Arial" fill="#475569">Appalam</text>
+</svg>

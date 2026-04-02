@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780" role="img" aria-label="Traditional snacks illustration">
+  <rect width="1200" height="780" fill="#ffffff"/>
+  <g transform="translate(170 170)">
+    <rect x="0" y="40" width="860" height="420" rx="34" fill="#fff7ed" stroke="#b45309" stroke-width="10"/>
+    <g opacity="0.92">
+      <rect x="90" y="160" width="180" height="180" rx="28" fill="#ffffff" stroke="#e2e8f0" stroke-width="10"/>
+      <rect x="340" y="120" width="200" height="220" rx="28" fill="#ffffff" stroke="#e2e8f0" stroke-width="10"/>
+      <rect x="610" y="170" width="170" height="170" rx="28" fill="#ffffff" stroke="#e2e8f0" stroke-width="10"/>
+    </g>
+    <path d="M120 380c65 40 115 40 180 0" fill="none" stroke="#0f766e" stroke-width="12" stroke-linecap="round" opacity="0.7"/>
+    <path d="M380 380c75 40 135 40 210 0" fill="none" stroke="#0f766e" stroke-width="12" stroke-linecap="round" opacity="0.7"/>
+    <path d="M630 380c60 40 108 40 160 0" fill="none" stroke="#0f766e" stroke-width="12" stroke-linecap="round" opacity="0.7"/>
+  </g>
+  <text x="600" y="710" text-anchor="middle" font-size="44" font-family="system-ui,Segoe UI,Roboto,Arial" fill="#475569">Traditional Snacks</text>
+</svg>
