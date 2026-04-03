@@ -98,3 +98,9 @@
   color: #f0f0f0 !important;
   text-shadow: 0 1px 4px rgba(0,0,0,0.6);
 }
+
+/* Fix: meanmenu plugin adds .mean-last to the last nav <li> (Contact).
+   responsive.css hides .mean-last on mobile, which hides the Contact link. */
+.mean-container .mean-nav ul li.mean-last {
+  display: block !important;
+}
